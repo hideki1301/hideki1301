@@ -1,4 +1,5 @@
-### Hi there 👋
+# Olá, seja bem-vindo ao meu perfil 👋
+## Aqui você encontrará informações sobre tecnologia e programação. Veja o meu repositório👍
 
 <!--
 **hideki1301/hideki1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
